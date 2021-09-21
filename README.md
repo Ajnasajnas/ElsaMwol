@@ -21,7 +21,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Ajnasajnas">AJNAS</a> to make it public
     <br>
        | © |
         Reserved |
@@ -118,7 +118,7 @@ $ node bot.js
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Pikachu executives do not accept responsibility.
-By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+By establishing the ElsaMwol, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
