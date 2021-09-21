@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Ker https://chat.whatsapp.com/C8pNiK1gjWSDsoFhJaV6lK*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -74,7 +74,7 @@
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown WhatsAsena",
+            "SHUTDOWN_DESC": "Shutdown ELSA MWOL",
             "SHUTDOWN_MSG": "```Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting*"
+            "AFTER_UPDATE": "*🕊️ElsaMwol Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
