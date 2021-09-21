@@ -7,7 +7,8 @@
 
     
 <div align="center">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ELSAMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+AJNAS)](https://Ajnasajnas/ElsaMwol)
+        
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ELSAMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+𝗔𝗝𝙉𝘼𝙎)](https://bit.ly/3lC8I7t)
 
 
  </a>
