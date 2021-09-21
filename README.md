@@ -1,6 +1,6 @@
 
 <div align="center">
-        <img src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" alt="img" width="400" height="450"/>
+        <img src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" alt="img" width="300" height="350"/>
 </p>
 <details>
         <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY🤗</b></summary>
