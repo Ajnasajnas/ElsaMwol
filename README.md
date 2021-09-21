@@ -7,8 +7,8 @@
 
     
 <div align="center">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ELSA MWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+AJNAS)](https://bit.ly/3lC8I7t)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ELSA MWOL+WA+Bot+repo;Created+by+AJNAS;This+is+the+Best++Bgm+bot;With+more+features)]
 
  </a>
 </p>
