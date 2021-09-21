@@ -18,7 +18,7 @@
 <a href="#"><img title="ELSA MWOL" src="https://img.shields.io/badge/AJNAS-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajnasajnas"><img title="Author-AJNAS" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?Ajnas/color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajnasajnas"><img title="Author-AJNAS" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?/color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
