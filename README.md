@@ -94,7 +94,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Ajnasajnas/ElsaMwol
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -104,7 +104,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Ajnasajnas/ElsaMwol
 $ cd pikachu
 $ chmod +x *
 $ npm i
@@ -118,7 +118,7 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
+Absolutely, ElsaMwol executives do not accept responsibility.
 By establishing the ElsaMwol, you are deemed to have accepted these responsibilities.
 ```
 
