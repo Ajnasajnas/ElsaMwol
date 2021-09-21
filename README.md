@@ -18,7 +18,7 @@
 <a href="#"><img title="ELSA MWOL" src="https://img.shields.io/badge/ELSA MWOL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajnasajnas"><img title="Author-AJNAS" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?/color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajnasajnas"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?/color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -72,9 +72,9 @@ Click Pikachu logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@Muhammedajnas/ELSAMWOL-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Ajnasajnas/ElsaMwol.git)
      </div>
 <br>
 <br >
