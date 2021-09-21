@@ -105,7 +105,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/Ajnasajnas/ElsaMwol
-$ cd pikachu
+$ cd ElsaMwol
 $ chmod +x *
 $ npm i
 $ node qr.js
