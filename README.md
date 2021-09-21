@@ -15,10 +15,10 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AJNAS" src="https://img.shields.io/badge/AJNAS-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajnasajnas"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajnasajnas"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?color=blue&style=for-the-badge&logo=whatsapp">AJNAS</a>
 </p>
 </div>
 <p align="center">
