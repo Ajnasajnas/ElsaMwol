@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+        <img src="https://telegra.ph/file/137aee8b9a91aa3a3749c.jpg" alt="img" width="250" height="200"/>
 </p>
 <details>
         <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY🤗</b></summary>
