@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://telegra.ph/file/137aee8b9a91aa3a3749c.jpg" alt="img" width="250" height="200"/>
+        <img src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" alt="img" width="250" height="200"/>
 </p>
 <details>
         <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY🤗</b></summary>
@@ -8,7 +8,7 @@
     
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ELSA MWOL+WA+Bot+repo;Created+by+AJNAS;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -17,7 +17,7 @@
 <a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajnasajnas"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS/ELSAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
